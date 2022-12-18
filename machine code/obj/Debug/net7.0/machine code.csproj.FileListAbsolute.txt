@@ -1,0 +1,15 @@
+/Users/viktoriasyceva/Documents/Git_education/machine code/bin/Debug/net7.0/machine code
+/Users/viktoriasyceva/Documents/Git_education/machine code/bin/Debug/net7.0/machine code.deps.json
+/Users/viktoriasyceva/Documents/Git_education/machine code/bin/Debug/net7.0/machine code.runtimeconfig.json
+/Users/viktoriasyceva/Documents/Git_education/machine code/bin/Debug/net7.0/machine code.dll
+/Users/viktoriasyceva/Documents/Git_education/machine code/bin/Debug/net7.0/machine code.pdb
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.csproj.AssemblyReference.cache
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.AssemblyInfoInputs.cache
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.AssemblyInfo.cs
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.csproj.CoreCompileInputs.cache
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.dll
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/refint/machine code.dll
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.pdb
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/machine code.genruntimeconfig.cache
+/Users/viktoriasyceva/Documents/Git_education/machine code/obj/Debug/net7.0/ref/machine code.dll
